@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: sarya-web
+  api_key: '275145333748346'
+  api_secret: seov9TyWYT0CU8pU-K3hSTBSh3s
+  enhance_image_tag: true
+  static_image_support: false
+production:
+  cloud_name: sarya-web
+  api_key: '275145333748346'
+  api_secret: seov9TyWYT0CU8pU-K3hSTBSh3s
+  enhance_image_tag: true
+  static_image_support: true
+test:
+  cloud_name: sarya-web
+  api_key: '275145333748346'
+  api_secret: seov9TyWYT0CU8pU-K3hSTBSh3s
+  enhance_image_tag: true
+  static_image_support: false
